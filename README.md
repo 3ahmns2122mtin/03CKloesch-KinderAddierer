@@ -4,8 +4,8 @@
 Ziel ist ein Funktionierender Addierer von zwei Integerwerten mit einem Reset und einem Calculate Button.
 
 ### Entwicklungsplattform: 
-Unity 2020.3.18f
-Visual Studios 2019
+Unity 2020.3.18f, 
+Visual Studios 2019;
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
@@ -17,9 +17,9 @@ https://3ahmns2122mtin.github.io/03CKloesch-KinderAddierer/
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
 
 ### Drittmaterial: 
-Background: Pixel_Town
-Background Music: Peanut Plain - Kirby Superstar
-Font: PixelDigivolve
+Background: Pixel_Town, 
+Background Music: Peanut Plain - Kirby Superstar, 
+Font: PixelDigivolve;
 
 ### Anforderungsliste:  
 - [x] Neues Projekt in Unity anlegen
@@ -40,7 +40,7 @@ Font: PixelDigivolve
 
 
 ### Limitationen:
-
+Es war etwas schwierig, den int Wert von der Result Variable in einen string Wert zu konvertieren. Nach etwas googlen hab ich es aber geschafft.
 
 ### Lessons Learned:
 - [x] Wie addiere ich im Script
