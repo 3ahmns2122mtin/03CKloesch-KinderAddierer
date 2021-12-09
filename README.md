@@ -37,6 +37,12 @@ Font: PixelDigivolve (https://www.fontspace.com/pixel-digivolve-font-f22012);
 - [x] Value 1 und 2 im Script in einer CheckAddition Methode addieren und in Variable result speichern
 - [x] neue public string Variable txtResult deklarieren, GameObject referenzieren
 - [x] Ergebnis von result in string konvertieren und in txtResult.txt speichern
+- [x] im GameObject BtnReset bei OnClick das Script anhängen
+- [x] im Script eine neue public Methode namens ResetBtn erstellen
+- [x] in der Methode alle Variablen auf String.Empty setzen, die txtResult wieder auf "result"
+- [x] speichern, kontrollieren ob alles funktioniert
+- [x] Script bereinigen
+- [x] WebGL herausspielen und auf Github hochladen
 
 
 ### Limitationen:
