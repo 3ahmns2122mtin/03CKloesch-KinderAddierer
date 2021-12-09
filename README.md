@@ -17,7 +17,7 @@ https://3ahmns2122mtin.github.io/03CKloesch-KinderAddierer/
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
 
 ### Drittmaterial: 
-Background: Pixel_DownTown (https://www.google.com/search?q=pixel+background&client=firefox-b-d&sxsrf=AOaemvI4iAkMMyAzWGqNJhBR_cSOy5K4Rw:1639034889053&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHytfimNb0AhWMu6QKHQETA0EQ_AUoAXoECAEQAw&biw=1696&bih=859&dpr=1.13#imgrc=Puu9S8OUPuF_1M), 
+Background: violet_wallpaper (https://www.google.com/search?q=grunge+aesthetic+wallpaper+desktop+violet&tbm=isch&ved=2ahUKEwi2g4Cvndb0AhVEwIUKHfs3DlIQ2-cCegQIABAA&oq=grunge+aesthetic+wallpaper+desktop+violet&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoGCAAQCBAeOgUIABCABDoECAAQHjoGCAAQBRAeUNAFWPAWYLsfaABwAHgAgAFxiAG_BZIBBDEwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=2rSxYbauMsSAlwT777iQBQ&bih=859&biw=1696&client=firefox-b-d#imgrc=wwxyEBaYHjO4tM), 
 Background Music: cxlt - Overthinking (https://www.youtube.com/watch?v=BZMaOtnDny4), 
 Font: PixelDigivolve (https://www.fontspace.com/pixel-digivolve-font-f22012);
 
