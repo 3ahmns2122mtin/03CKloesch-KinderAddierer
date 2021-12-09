@@ -18,7 +18,7 @@ z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages 
 
 ### Drittmaterial: 
 Background: Pixel_DownTown (https://www.google.com/search?q=pixel+background&client=firefox-b-d&sxsrf=AOaemvI4iAkMMyAzWGqNJhBR_cSOy5K4Rw:1639034889053&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHytfimNb0AhWMu6QKHQETA0EQ_AUoAXoECAEQAw&biw=1696&bih=859&dpr=1.13#imgrc=Puu9S8OUPuF_1M), 
-Background Music: Peanut Plain - Kirby Superstar (https://www.youtube.com/watch?v=jZa8b-5oX1s&t=2s), 
+Background Music: cxlt - Overthinking (https://www.youtube.com/watch?v=BZMaOtnDny4), 
 Font: PixelDigivolve (https://www.fontspace.com/pixel-digivolve-font-f22012);
 
 ### Anforderungsliste:  
